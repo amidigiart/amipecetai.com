@@ -6,8 +6,8 @@
 import type {
   PillarResult, PillarId, BiasFlag, CCLCheck,
   ResonanceTest, CertificationResult, SourceType, SealData
-} from '../types';
-import { PILLAR_META, CCL_CHECKS } from '../types';
+} from '../../types';
+import { PILLAR_META, CCL_CHECKS } from '../../types';
 
 // ── UTILITIES ──────────────────────────────────────────────
 
